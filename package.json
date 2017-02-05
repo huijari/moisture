@@ -1,7 +1,7 @@
 {
   "name": "moisture",
   "version": "1.0.0",
-  "description": "Custom generator for Most",
+  "description": "Custom emitter for Most",
   "main": "index.js",
   "repository": "git@github.com:Huijari/moisture.git",
   "author": "github.com/Huijari",
